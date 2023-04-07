@@ -12,19 +12,23 @@ h2 {
 h3 {
 	color: #0a9396;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: x-large;
 }
 
 p {
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: large;
 }
 
 ul {
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: large;
 	line-height: 25px;
 }
 
 ol {
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: large;
 	line-height: 25px;
 }
 
