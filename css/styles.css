@@ -1,5 +1,5 @@
-h1 {
-	color: #001219;
+.alpha {
+	color: #277da1;
 	text-align: center;
 	font-family: Georgia;
 }
@@ -9,27 +9,84 @@ h2 {
 	font-family: Verdana;
 }
 
-h3 {
-	color: #0a9396;
+.bravo {
+	color: #4d908e;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: x-large;
 }
 
-p {
+p.charlie {
+	color: #43aa8b;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-size: large;
+	font-style: italic;
 }
 
-ul {
+p.delta {
+	color: #90be6d;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-style: italic;
+	font-weight: 700;
+}
+
+.echo {
+	color: #f9c74f;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-size: large;
 	line-height: 25px;
+}
+
+.foxtrot {
+	color: #f9c74f;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: large;
+	line-height: 25px;
+}
+
+.god {
+	color: #f9844a;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	line-height: 25px;
+}
+
+.hellcat {
+	color: #f9844a;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	line-height: 25px;
+}
+
+.ida {
+	color: #f3722c;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	line-height: 25px;
+}
+
+.jackie {
+	color: #f94144;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	line-height: 25px;
+}
+
+.kill {
+	color: #f94144;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	line-height: 25px;
+
 }
 
 ol {
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-size: large;
 	line-height: 25px;
+}
+
+body {
+	background-color: #9d4edd;
 }
 
 img {
