@@ -11,7 +11,7 @@
 
 ## Description
 
-_This website is dedicated to Oliver, my cat. This site demonstrates knowledge and implementation of image tags, unordered and ordered list tags, and attribute tags._
+_This website is dedicated to Oliver, my cat. This site demonstrates knowledge and implementation of image tags, unordered and ordered list tags, and attribute tags. It also demonstrates knowledge and implementation of CSS classes and styling._
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ _This website is dedicated to Oliver, my cat. This site demonstrates knowledge a
 
 ## Known Bugs
 
-* _The images in the "Activities" section are not formatted properly. I plan to update this once I gain more knowledge about CSS._
+* _The images in the "Activities" section are not formatted properly. I plan to update this once I gain more knowledge about CSS. I also plan to update the colors and font when I gain more knowledge about styling._
 
 ## License
 
